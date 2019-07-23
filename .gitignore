@@ -307,3 +307,6 @@ __pycache__/
 
 # Ignore generated data
 data/*
+
+# Ignore log directories
+tensorflow_log_dir/*
