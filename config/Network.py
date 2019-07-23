@@ -15,9 +15,9 @@ IMAGESIZE = (256, 256)
 # Network and training settings
 CLASSES = 2
 BATCH_SIZE = 32
-EPOCHS = 1
-INPUT_SIZE = (100, 100)
-LEARNRATE = 1e-6
+EPOCHS = 5
+INPUT_SIZE = (227, 227)
+LEARNRATE = 1e-3
 
 # Output file names
 MODEL_NAME = "Model"
