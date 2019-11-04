@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DogsVsCats</string>
+    <string name="app_version">0.1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DogsVsCats</string>
+    <string name="nav_header_subtitle">DanielKampert@kampis-elektroecke.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation menu -->
+    <string name="menu_group_communicate">Communicate</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_about">About</string>
+
+    <!-- No permission dialog -->
+    <string name="get_camera_permission">Allow</string>
+
+    <!-- Settings fragment -->
+    <string name="model_width">Input width</string>
+    <string name="model_height">Input height</string>
+    <string name="model_channels">Input channels</string>
+    <string name="camera_resolution">Camera resolution</string>
+    <string name="audio_language">Audio language</string>
+    <string name="model_input">Model input dimensions</string>
+    <string name="use_nnapi">Use NNAPI</string>
+    <string name="use_audio">Use Audio</string>
+    <string name="threadlabel">Threads</string>
+    <string name="resultlabel">%s: %.2f</string>
+
+    <!-- About fragment -->
+    <string name="label_appname">App name</string>
+    <string name="label_appversion">App version</string>
+    <string name="no_info">No \'Info.txt\' file available!</string>
+    <string name="email">DanielKampert@kampis-elektroecke.de</string>
+
+</resources>
