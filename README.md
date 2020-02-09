@@ -30,4 +30,4 @@ You train the network with data from the [Kaggle Dogs vs. Cats](https://www.kagg
 
 ## Maintainer
 
-- [Daniel Kampert](DanielKampert@kampis-elektroecke.de)
+- [Daniel Kampert](mailto:DanielKampert@kampis-elektroecke.de)
