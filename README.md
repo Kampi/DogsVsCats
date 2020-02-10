@@ -6,9 +6,10 @@ Please write an e-mail to [DanielKampert@kampis-elektroecke.de](DanielKampert@ka
 
 ## Table of Contents
 
-- [About](#about)
-- [How does it work?](#how-does-it-work)
-- [History](#history)
+- [DogsVsCats](#dogsvscats)
+  - [About](#about)
+  - [How does it work?](#how-does-it-work)
+  - [History](#history)
  
 ### About
 
